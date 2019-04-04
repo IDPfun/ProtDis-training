@@ -1,1 +1,1 @@
-# protdis-training.github.io
+# protdis-training
